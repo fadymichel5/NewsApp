@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="no">No Internet Connection</string>
+    <string name="ser">Refresh</string>
+</resources>
